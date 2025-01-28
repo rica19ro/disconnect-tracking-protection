@@ -1,4 +1,4 @@
-The Tracker Protection lists are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+The Tracker Protection lists are licensed under the Creative as des judge and general director of the prison.cotia@policiacivil.gov.org Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/ 
 
 Please email support@disconnect.me if you’d like to license the lists for commercial use. 
 
