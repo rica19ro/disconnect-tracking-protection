@@ -728,8 +728,7 @@
       ],
       "resources": [
         "adknowledge.com",
-        "bidsystem.com",
-        "cubics.com"
+        "bidsystem.com"
       ]
     },
     "AdLeave": {
@@ -2271,6 +2270,7 @@
         "2o7.net",
         "adobe.com",
         "adobedc.net",
+        "adobedtm.com",
         "adsymptotic.com",
         "auditude.com",
         "bizible.com",
@@ -3087,16 +3087,6 @@
         "aisleahead.com"
       ]
     },
-    "a.js": {
-      "properties": [
-        "flightzy.date",
-        "zymerget.bid"
-      ],
-      "resources": [
-        "flightzy.date",
-        "zymerget.bid"
-      ]
-    },
     "Akamai": {
       "properties": [
         "akamai.com"
@@ -3512,15 +3502,6 @@
         "adfusion.com"
       ]
     },
-    "ArkoseLabs": {
-      "properties": [
-        "funcaptcha.com"
-      ],
-      "resources": [
-        "arkoselabs.com",
-        "funcaptcha.com"
-      ]
-    },
     "ArtificialComputationIntelligence": {
       "properties": [
         "acint.net"
@@ -3759,14 +3740,6 @@
       ],
       "resources": [
         "jpush.cn"
-      ]
-    },
-    "AuthedMine": {
-      "properties": [
-        "authedmine.com"
-      ],
-      "resources": [
-        "authedmine.com"
       ]
     },
     "AuthorEmail": {
@@ -4045,14 +4018,6 @@
       ],
       "resources": [
         "baronsoffers.com"
-      ]
-    },
-    "Barracuda": {
-      "properties": [
-        "barracuda.com"
-      ],
-      "resources": [
-        "cudasvc.com"
       ]
     },
     "BasisTechnologies": {
@@ -4501,14 +4466,6 @@
         "bpsgameserver.com"
       ]
     },
-    "bmst.pw": {
-      "properties": [
-        "bmst.pw"
-      ],
-      "resources": [
-        "bmst.pw"
-      ]
-    },
     "bobabillydirect.org": {
       "properties": [
         "bobabillydirect.org"
@@ -4713,14 +4670,6 @@
         "b0e8.com",
         "bc0a.com",
         "brightedge.com"
-      ]
-    },
-    "BrowserAnalytic": {
-      "properties": [
-        "browseranalytic.com"
-      ],
-      "resources": [
-        "browseranalytic.com"
       ]
     },
     "Browser-Update.org": {
@@ -5147,15 +5096,6 @@
       ],
       "resources": [
         "carts.guru"
-      ]
-    },
-    "CashBeet": {
-      "properties": [
-        "cashbeet.com"
-      ],
-      "resources": [
-        "cashbeet.com",
-        "serv1swork.com"
       ]
     },
     "Causes": {
@@ -5670,14 +5610,6 @@
         "cohesionapps.com"
       ]
     },
-    "CoinPot": {
-      "properties": [
-        "coinpot.co"
-      ],
-      "resources": [
-        "coinpot.co"
-      ]
-    },
     "Collarity": {
       "properties": [
         "collarity.com"
@@ -6139,28 +6071,6 @@
         "betrad.com"
       ]
     },
-    "CryptoLoot": {
-      "properties": [
-        "crypto-loot.com"
-      ],
-      "resources": [
-        "cryptaloot.pro",
-        "crypto-loot.com",
-        "gitgrub.pro",
-        "reauthenticator.com",
-        "statdynamic.com",
-        "webmine.pro"
-      ]
-    },
-    "CryptoWebMiner": {
-      "properties": [
-        "crypto-webminer.com"
-      ],
-      "resources": [
-        "crypto-webminer.com",
-        "ethtrader.de"
-      ]
-    },
     "CSG": {
       "properties": [
         "csgi.com",
@@ -6193,54 +6103,6 @@
       ],
       "resources": [
         "adtdp.com"
-      ]
-    },
-    "d1af033869koo7.cloudfront.net": {
-      "properties": [
-        "d1af033869koo7.cloudfront.net"
-      ],
-      "resources": [
-        "d1af033869koo7.cloudfront.net"
-      ]
-    },
-    "d1cr9zxt7u0sgu.cloudfront.net": {
-      "properties": [
-        "d1cr9zxt7u0sgu.cloudfront.net"
-      ],
-      "resources": [
-        "d1cr9zxt7u0sgu.cloudfront.net"
-      ]
-    },
-    "d1vg5xiq7qffdj.cloudfront.net": {
-      "properties": [
-        "d1vg5xiq7qffdj.cloudfront.net"
-      ],
-      "resources": [
-        "d1vg5xiq7qffdj.cloudfront.net"
-      ]
-    },
-    "d27xr6oh14aaqn.cloudfront.net": {
-      "properties": [
-        "d27xr6oh14aaqn.cloudfront.net"
-      ],
-      "resources": [
-        "d27xr6oh14aaqn.cloudfront.net"
-      ]
-    },
-    "d38xvr37kwwhcm.cloudfront.net": {
-      "properties": [
-        "d38xvr37kwwhcm.cloudfront.net"
-      ],
-      "resources": [
-        "d38xvr37kwwhcm.cloudfront.net"
-      ]
-    },
-    "d3dn269ayoh5p6.cloudfront.net": {
-      "properties": [
-        "d3dn269ayoh5p6.cloudfront.net"
-      ],
-      "resources": [
-        "d3dn269ayoh5p6.cloudfront.net"
       ]
     },
     "Dada": {
@@ -6287,15 +6149,6 @@
         "datadoghq-browser-agent.com",
         "datadoghq.com",
         "datadoghq.eu"
-      ]
-    },
-    "Datadome": {
-      "properties": [
-        "datadome.co"
-      ],
-      "resources": [
-        "captcha-delivery.com",
-        "datadome.co"
       ]
     },
     "Dataium": {
@@ -6842,14 +6695,6 @@
         "durationmedia.net"
       ]
     },
-    "duube1y6ojsji.cloudfront.net": {
-      "properties": [
-        "duube1y6ojsji.cloudfront.net"
-      ],
-      "resources": [
-        "duube1y6ojsji.cloudfront.net"
-      ]
-    },
     "dwstat.com": {
       "properties": [
         "dwstat.cn"
@@ -7015,19 +6860,6 @@
       ],
       "resources": [
         "edrone.me"
-      ]
-    },
-    "EFF": {
-      "properties": [
-        "do-not-tracker.org",
-        "eff.org",
-        "eviltracker.net",
-        "trackersimulator.org"
-      ],
-      "resources": [
-        "do-not-tracker.org",
-        "eviltracker.net",
-        "trackersimulator.org"
       ]
     },
     "Effective Measure": {
@@ -8067,14 +7899,6 @@
         "onecount.net"
       ]
     },
-    "GeeTest": {
-      "properties": [
-        "geetest.com"
-      ],
-      "resources": [
-        "geetest.com"
-      ]
-    },
     "Geistm": {
       "properties": [
         "geistm.com"
@@ -8732,6 +8556,7 @@
         "googlemail.com",
         "googleoptimize.com",
         "googlesyndication.com",
+        "googletagmanager.com",
         "googletagservices.com",
         "googleusercontent.com",
         "googlevideo.com",
@@ -8739,7 +8564,6 @@
         "invitemedia.com",
         "merchant-center-analytics.goog",
         "postrank.com",
-        "recaptcha.net",
         "teracent.com",
         "teracent.net",
         "youtube-nocookie.com",
@@ -8794,15 +8618,6 @@
       ],
       "resources": [
         "gasv1.com"
-      ]
-    },
-    "Gridcash": {
-      "properties": [
-        "adless.io",
-        "gridcash.net"
-      ],
-      "resources": [
-        "adless.io"
       ]
     },
     "Grocery Shopping Network": {
@@ -9165,25 +8980,6 @@
         "hubspot.com",
         "hubspotemail.net",
         "usemessages.com"
-      ]
-    },
-    "HumanSecurity": {
-      "properties": [
-        "adzmath.com",
-        "humansecurity.com",
-        "perimeterx.com",
-        "whiteops.com"
-      ],
-      "resources": [
-        "adxyield.com",
-        "adzmath.com",
-        "clean.gg",
-        "perimeterx.com",
-        "perimeterx.net",
-        "protechts.net",
-        "px-cdn.net",
-        "px-cloud.net",
-        "whiteops.com"
       ]
     },
     "Hunter": {
@@ -9758,15 +9554,6 @@
         "im-apps.net"
       ]
     },
-    "IntuitionMachines": {
-      "properties": [
-        "hcaptcha.com",
-        "imachines.com"
-      ],
-      "resources": [
-        "hcaptcha.com"
-      ]
-    },
     "Inuvo": {
       "properties": [
         "inuvo.com"
@@ -10065,19 +9852,6 @@
       ],
       "resources": [
         "kwai.net"
-      ]
-    },
-    "JSE": {
-      "properties": [
-        "jsecoin.com"
-      ],
-      "resources": [
-        "freecontent.date",
-        "freecontent.stream",
-        "hashing.win",
-        "hostingcloud.racing",
-        "hostingcloud.science",
-        "jsecoin.com"
       ]
     },
     "JSKit": {
@@ -11284,6 +11058,16 @@
         "medicxmedia.com"
       ]
     },
+    "Meetrics": {
+      "properties": [
+        "de.com",
+        "meetrics.com",
+        "meetrics.de"
+      ],
+      "resources": [
+        "de.com"
+      ]
+    },
     "MegaIndex": {
       "properties": [
         "megaindex.ru"
@@ -11542,38 +11326,6 @@
       ],
       "resources": [
         "mmismm.com"
-      ]
-    },
-    "MinerAlt": {
-      "properties": [
-        "vidzi.nu"
-      ],
-      "resources": [
-        "analytics.blue",
-        "besstahete.info",
-        "feesocrald.com",
-        "gramombird.com",
-        "istlandoll.com",
-        "mepirtedic.com",
-        "pampopholf.com",
-        "tercabilis.info",
-        "tulip18.com"
-      ]
-    },
-    "Minescripts": {
-      "properties": [
-        "minescripts.info"
-      ],
-      "resources": [
-        "minescripts.info"
-      ]
-    },
-    "MineXMR": {
-      "properties": [
-        "minexmr.stream"
-      ],
-      "resources": [
-        "minexmr.stream"
       ]
     },
     "MinuteMedia": {
@@ -12036,14 +11788,6 @@
         "ad-srv.net"
       ]
     },
-    "NeroHut": {
-      "properties": [
-        "nerohut.com"
-      ],
-      "resources": [
-        "nerohut.com"
-      ]
-    },
     "NetAffiliation": {
       "properties": [
         "netaffiliation.com"
@@ -12376,14 +12120,6 @@
         "nocodelytics.com"
       ]
     },
-    "NoFraud": {
-      "properties": [
-        "nofraud.com"
-      ],
-      "resources": [
-        "nofraud.com"
-      ]
-    },
     "Noibu": {
       "properties": [
         "noibu.com"
@@ -12425,14 +12161,6 @@
       ],
       "resources": [
         "adleadevent.com"
-      ]
-    },
-    "Noto": {
-      "properties": [
-        "notolytix.com"
-      ],
-      "resources": [
-        "notolytix.com"
       ]
     },
     "Nova": {
@@ -12569,6 +12297,14 @@
         "adohana.com",
         "ohana-media.com",
         "ohanaqb.com"
+      ]
+    },
+    "Olark": {
+      "properties": [
+        "olark.com"
+      ],
+      "resources": [
+        "olark.com"
       ]
     },
     "Omnicom Group": {
@@ -12732,6 +12468,14 @@
       ],
       "resources": [
         "openeducat.org"
+      ]
+    },
+    "Open New Media": {
+      "properties": [
+        "onm.de"
+      ],
+      "resources": [
+        "onm.de"
       ]
     },
     "Openstat": {
@@ -13080,8 +12824,7 @@
         "simility.com"
       ],
       "resources": [
-        "paypal.com",
-        "simility.com"
+        "paypal.com"
       ]
     },
     "Paypopup.com": {
@@ -13427,6 +13170,14 @@
       ],
       "resources": [
         "polymail.io"
+      ]
+    },
+    "Poool": {
+      "properties": [
+        "poool.fr"
+      ],
+      "resources": [
+        "poool.fr"
       ]
     },
     "PopAds": {
@@ -14798,14 +14549,6 @@
         "servenobid.com"
       ]
     },
-    "Service4refresh": {
-      "properties": [
-        "service4refresh.info"
-      ],
-      "resources": [
-        "service4refresh.info"
-      ]
-    },
     "SevenAds": {
       "properties": [
         "sevenads.net"
@@ -14965,22 +14708,6 @@
       ],
       "resources": [
         "showmeyouradsnow.com"
-      ]
-    },
-    "SiftScience": {
-      "properties": [
-        "sift.com"
-      ],
-      "resources": [
-        "siftscience.com"
-      ]
-    },
-    "Signifyd": {
-      "properties": [
-        "signifyd.com"
-      ],
-      "resources": [
-        "signifyd.com"
       ]
     },
     "Silverpush": {
@@ -15269,6 +14996,15 @@
         "snplow.net"
       ]
     },
+    "SocialChorus": {
+      "properties": [
+        "socialchorus.com"
+      ],
+      "resources": [
+        "halogennetwork.com",
+        "socialchorus.com"
+      ]
+    },
     "SocialInterface": {
       "properties": [
         "socialinterface.com"
@@ -15398,14 +15134,6 @@
       ],
       "resources": [
         "spacechimpmedia.com"
-      ]
-    },
-    "SpareChange": {
-      "properties": [
-        "sparechange.io"
-      ],
-      "resources": [
-        "sparechange.io"
       ]
     },
     "Sparklit": {
@@ -15788,14 +15516,6 @@
       ],
       "resources": [
         "survicate.com"
-      ]
-    },
-    "SwiftMining": {
-      "properties": [
-        "swiftmining.win"
-      ],
-      "resources": [
-        "swiftmining.win"
       ]
     },
     "Switch": {
@@ -16646,6 +16366,22 @@
         "ucfunnel.com"
       ]
     },
+    "uCoz": {
+      "properties": [
+        "ucoz.ae",
+        "ucoz.com",
+        "ucoz.fr",
+        "ucoz.net",
+        "ucoz.ru"
+      ],
+      "resources": [
+        "ucoz.ae",
+        "ucoz.com",
+        "ucoz.fr",
+        "ucoz.net",
+        "ucoz.ru"
+      ]
+    },
     "udzpel.com": {
       "properties": [
         "udzpel.com"
@@ -16854,6 +16590,14 @@
       ],
       "resources": [
         "uservoice.com"
+      ]
+    },
+    "USocial": {
+      "properties": [
+        "usocial.pro"
+      ],
+      "resources": [
+        "usocial.pro"
       ]
     },
     "UTarget": {
@@ -17181,6 +16925,14 @@
         "viralhosts.com"
       ]
     },
+    "ViralLoops": {
+      "properties": [
+        "viral-loops.com"
+      ],
+      "resources": [
+        "viral-loops.com"
+      ]
+    },
     "VirtualMinds": {
       "properties": [
         "adition.com",
@@ -17467,6 +17219,14 @@
         "zincx.com"
       ]
     },
+    "WeatherWidget": {
+      "properties": [
+        "weatherwidget.io"
+      ],
+      "resources": [
+        "weatherwidget.io"
+      ]
+    },
     "Web.com": {
       "properties": [
         "feedperfect.com",
@@ -17527,31 +17287,6 @@
       ],
       "resources": [
         "dsmmadvantage.com"
-      ]
-    },
-    "Webmine": {
-      "properties": [
-        "webmine.cz"
-      ],
-      "resources": [
-        "authedwebmine.cz",
-        "webmine.cz"
-      ]
-    },
-    "WebminePool": {
-      "properties": [
-        "webminepool.com"
-      ],
-      "resources": [
-        "webminepool.com"
-      ]
-    },
-    "Webmining": {
-      "properties": [
-        "webmining.co"
-      ],
-      "resources": [
-        "webmining.co"
       ]
     },
     "Weborama": {
@@ -17616,6 +17351,14 @@
         "amung.us"
       ]
     },
+    "Widgetic": {
+      "properties": [
+        "widgetic.com"
+      ],
+      "resources": [
+        "widgetic.com"
+      ]
+    },
     "Wingify": {
       "properties": [
         "vwo.com",
@@ -17633,6 +17376,15 @@
       "resources": [
         "wiredminds.com",
         "wiredminds.de"
+      ]
+    },
+    "WirtualnaPolska": {
+      "properties": [
+        "adtotal.pl",
+        "wp.pl"
+      ],
+      "resources": [
+        "adtotal.pl"
       ]
     },
     "Wisepops": {
@@ -17946,10 +17698,8 @@
       ],
       "resources": [
         "adfox.ru",
-        "api-maps.yandex.ru",
         "kinopoisk.ru",
         "moikrug.ru",
-        "smartcaptcha.yandexcloud.net",
         "web-visor.com",
         "webvisor.com",
         "webvisor.org",
@@ -17960,7 +17710,8 @@
         "yandex.net",
         "yandex.ru",
         "yandex.st",
-        "yandex.ua"
+        "yandex.ua",
+        "yastatic.net"
       ]
     },
     "Yeahmobi": {
